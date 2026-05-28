@@ -65,7 +65,7 @@ The following cleaning steps were carried out on the **Cleaned Data** sheet (Raw
 |---|------------|------|---------|--------|
 | 1 | Sales by Product Line & Year | PRODUCTLINE | YEAR_ID | Sum of TOTALSALES |
 | 2 | Monthly Sales Trend | MONTH_ID | YEAR_ID | Sum of TOTALSALES |
-| 3 | Sales by Country (Ranked) | COUNTRY | — | Sum of TOTALSALES |
+| 3 | Sales by Country (Top 10) | COUNTRY | — | Sum of TOTALSALES |
 | 4 | Top 10 Customers | CUSTOMERNAME | — | Sum of TOTALSALES |
 | 5 | Sales by Deal Size | DEALSIZE | YEAR_ID | Sum of TOTALSALES |
 
@@ -78,7 +78,7 @@ The following cleaning steps were carried out on the **Cleaned Data** sheet (Raw
 | 1 | Clustered Column Chart | Pivot 1 | Revenue comparison across product lines per year |
 | 2 | Line with Markers | Pivot 2 | Monthly sales trend across 2003–2005 |
 | 3 | Horizontal Bar Chart | Pivot 3 | Top 10 countries ranked by revenue |
-| 4 | Donut Chart | Pivot 5 | Revenue split by deal size |
+| 4 | Pie Chart | Pivot 5 | Revenue split by deal size |
 
 ---
 
@@ -115,7 +115,7 @@ The top customer — **Euro Shopping Channel** — generated **$766,195.05** alo
 | Cleaned_Data | Cleaned and structured data with helper columns |
 | Pivot-ProductLine | Sales by product line & year |
 | Pivot-Monthly | Monthly sales trend by year |
-| Pivot-Country | Sales by country ranked |
+| Pivot-Country | TOP 10 countries by revenue |
 | Pivot-Customer | Top 10 customers by revenue |
 | Pivot-DealSize | Sales by deal size & year |
 
