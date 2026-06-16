@@ -83,6 +83,9 @@ The following cleaning steps were carried out on the **Cleaned Data** sheet (Raw
 ## 📊 Power BI Dashboard Preview
 
 ![Dashboard](dashboard_screenshot.png)
+> 💡 Download the `Sales_Performance_Dashboard.pbix` 
+file above and open in Power BI Desktop to interact 
+with the full dashboard including slicers and filters.
 ---
 
 ## 💡 Key Findings & Business Insights
@@ -126,6 +129,7 @@ The top customer — **Euro Shopping Channel** — generated **$766,195.05** alo
 
 ## 🔧 Tools Used
 - **Microsoft Excel** — Data cleaning, pivot tables, charts
+- **Power BI** — Interactive dashboard, DAX measures, slicers
 
 ---
 
