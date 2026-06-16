@@ -134,7 +134,7 @@ The top customer — **Euro Shopping Channel** — generated **$766,195.05** alo
 ---
 
 ## 🚀 What's Next
-The next project will build on these insights using **Power BI** to create a fully interactive dashboard — bringing the same dataset to life with slicers, drill-throughs, and dynamic visuals.
+-**The journey continues! I have just completed the IDA/3MTT Data Analysis Bootcamp — a three-month intensive program where I built three real-world capstone projects across retail, healthcare, and personal finance, analysing over 200,000 records using Python, SQL, Microsoft Excel, and Power BI. Full project documentation and files coming to this repository soon.
 
 ---
 
