@@ -80,6 +80,9 @@ The following cleaning steps were carried out on the **Cleaned Data** sheet (Raw
 | 3 | Horizontal Bar Chart | Pivot 3 | Top 10 countries ranked by revenue |
 | 4 | Pie Chart | Pivot 5 | Revenue split by deal size |
 
+## 📊 Power BI Dashboard Preview
+
+![Dashboard](dashboard_screenshot.png)
 ---
 
 ## 💡 Key Findings & Business Insights
